@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Temporary log files
+*.log
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Test and coverage
+.pytest_cache/
+.mypy_cache/
+
+# Project temporary generated images and masks
+images/*_mask.png
+images/captured_*.png
