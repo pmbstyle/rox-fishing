@@ -4,7 +4,9 @@
 
 The bot is designed with ultra-low latency reaction and uses hardware-level input simulation (DirectInput scan codes) to bypass game click-blocking mechanisms.
 
----
+<p style="aling:center">
+   <img src="https://github.com/user-attachments/assets/9eb339ab-98cb-47d4-8691-58d6ce3ac840" />
+</p>
 
 ## ✨ Features
 
@@ -20,10 +22,6 @@ The bot is designed with ultra-low latency reaction and uses hardware-level inpu
     *   *Background Mode* (Experimental) — Recursively resolves and sends mouse events directly to the emulator's child rendering canvas handles, allowing you to run the bot on the background while using your PC.
 
 ---
-
-<p style="aling:center">
-   <img src="https://github.com/user-attachments/assets/9eb339ab-98cb-47d4-8691-58d6ce3ac840" />
-</p>
 
 
 ## 🛠️ Requirements & Installation
