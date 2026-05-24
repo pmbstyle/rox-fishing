@@ -21,6 +21,11 @@ The bot is designed with ultra-low latency reaction and uses hardware-level inpu
 
 ---
 
+<p style="aling:center">
+   <img src="https://github.com/user-attachments/assets/9eb339ab-98cb-47d4-8691-58d6ce3ac840" />
+</p>
+
+
 ## 🛠️ Requirements & Installation
 
 The application requires **Python 3.10+** installed on Windows.
